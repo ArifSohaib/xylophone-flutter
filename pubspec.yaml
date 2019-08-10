@@ -11,6 +11,10 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  audioplayers:
+  english_words:
+
+
 
 dev_dependencies:
   flutter_test:
